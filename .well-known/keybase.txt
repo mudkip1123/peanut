@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kyleswartley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://peanut.one
+  * I am kyleswartley (https://keybase.io/kyleswartley) on keybase.
+  * I have a public key ASA1B-rhu8Mr8Iyhsh982BEKmAiGhH30PbPAMOdJrmljvwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d54078fa47879fa0033b052f102320b5367320f41fe4417a007cad8c23ffc99d0a",
+            "host": "keybase.io",
+            "kid": "01203507eae1bbc32bf08ca1b21f7cd8110a980886847df43db3c030e749ae6963bf0a",
+            "uid": "17647e26c835494b5b51a7eb6d230119",
+            "username": "kyleswartley"
+        },
+        "merkle_root": {
+            "ctime": 1498767749,
+            "hash": "59fd3310e0543e3f1e102a4f19ac0c409f471b3b89e13ca2def95d3cae7a6af3e698dce4e8cb12b4e9bc132fbd77a8a285f1d1cab533d6f58a343ec04492bb7a",
+            "hash_meta": "50a3f02ee594ec55b68168b9cf5cda2f6b204370a8559ce0c577d144fe51da5f",
+            "seqno": 1201848
+        },
+        "service": {
+            "hostname": "peanut.one",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498767780,
+    "expire_in": 504576000,
+    "prev": "11af033d5bcb696fa60aab2fa5ec6546d58f01723ba6df5124cc15db0766ecb2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNQfq4bvDK/CMobIffNgRCpgIhoR99D2zwDDnSa5pY78Kp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDU0MDc4ZmE0Nzg3OWZhMDAzM2IwNTJmMTAyMzIwYjUzNjczMjBmNDFmZTQ0MTdhMDA3Y2FkOGMyM2ZmYzk5ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzUwN2VhZTFiYmMzMmJmMDhjYTFiMjFmN2NkODExMGE5ODA4ODY4NDdkZjQzZGIzYzAzMGU3NDlhZTY5NjNiZjBhIiwidWlkIjoiMTc2NDdlMjZjODM1NDk0YjViNTFhN2ViNmQyMzAxMTkiLCJ1c2VybmFtZSI6Imt5bGVzd2FydGxleSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5ODc2Nzc0OSwiaGFzaCI6IjU5ZmQzMzEwZTA1NDNlM2YxZTEwMmE0ZjE5YWMwYzQwOWY0NzFiM2I4OWUxM2NhMmRlZjk1ZDNjYWU3YTZhZjNlNjk4ZGNlNGU4Y2IxMmI0ZTliYzEzMmZiZDc3YThhMjg1ZjFkMWNhYjUzM2Q2ZjU4YTM0M2VjMDQ0OTJiYjdhIiwiaGFzaF9tZXRhIjoiNTBhM2YwMmVlNTk0ZWM1NWI2ODE2OGI5Y2Y1Y2RhMmY2YjIwNDM3MGE4NTU5Y2UwYzU3N2QxNDRmZTUxZGE1ZiIsInNlcW5vIjoxMjAxODQ4fSwic2VydmljZSI6eyJob3N0bmFtZSI6InBlYW51dC5vbmUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5ODc2Nzc4MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIxMWFmMDMzZDViY2I2OTZmYTYwYWFiMmZhNWVjNjU0NmQ1OGYwMTcyM2JhNmRmNTEyNGNjMTVkYjA3NjZlY2IyIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA4aclWDraJ7UktW2inwMSLfPQj5mhaobtPb4qTnnm5pv4udzr7DDBtcAZGNIO3xBDeNzXTghzulT47zYZ0Iw9AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGtGA/tICEcgG0EgN8PocT5tefAHajkmFal8NqkSlFYZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kyleswartley
+
+==================================================================
